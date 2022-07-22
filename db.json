@@ -1,0 +1,41 @@
+{
+  "posts": [
+    {
+      "id": 4,
+      "name": "Suip",
+      "email": "bhatarai.sudip@gmial.co,",
+      "address": "fkldnb",
+      "mobile": "94564",
+      "service": "kjvbfds"
+    },
+    {
+      "id": 5,
+      "name": "Sudip",
+      "email": "bnm@gmail.com",
+      "address": "hvgjbhnj",
+      "mobile": "23456789",
+      "service": "cvbnm"
+    },
+    {
+      "id": 6,
+      "name": "ijo",
+      "email": "xb @gmail.com",
+      "address": "cvcgbhjk",
+      "mobile": "34567",
+      "service": "dfghj"
+    }
+  ],
+  "signup": [
+    {
+      "name": "sudip",
+      "email": "sudip@mail.com",
+      "mobile": "234567890",
+      "password": "dfghjk",
+      "id": 1
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
